@@ -1,3 +1,4 @@
+//test
 function changerStyle(){
   /*Modifi la couleur de parag1*/
         document.getElementById('parag1').style.color="#FFF";
